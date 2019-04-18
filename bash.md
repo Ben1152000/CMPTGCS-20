@@ -1,0 +1,18 @@
+
+- `cd`: Change directory. Change to certain directory name if provided. 
+    - `.` current dir.
+    - `..` parent dir 
+    - `/` root dir
+- `~` home dir
+- `ls`: Show directory contents, lists names of files. (Win: `dir`)
+- `pwd`: Displays the name of the working directory.
+- `touch`: Creates a blank file with a specified name.
+- `mv`: Rename a specified file or directory. (Win: `ren` for rename)
+- `cp`: Copy file to a new named file. Use -r flag to copy a directory. (Win: `copy`)
+- `rm`: Removes a specified file. This action is permanent. (Win: `del`)
+- `cat`: Display contents of a file.
+- `find`: search files and directories. Can use with wildcards (`* ? [ ]`).
+- `echo`: Broadcast string to standard output (Win: `type`)
+- `mkdir`: Creates a directory of the specified name.
+- `rmdir`: Removes a directory. (`rd`)
+- `open`: Open a file with the default application.
