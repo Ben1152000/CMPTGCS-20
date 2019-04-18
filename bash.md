@@ -3,7 +3,7 @@
     - `.` current dir.
     - `..` parent dir 
     - `/` root dir
-- `~` home dir
+    - `~` home dir
 - `ls`: Show directory contents, lists names of files. (Win: `dir`)
 - `pwd`: Displays the name of the working directory.
 - `touch`: Creates a blank file with a specified name.
